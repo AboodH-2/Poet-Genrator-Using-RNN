@@ -1,5 +1,5 @@
 # Poet-Genrator-Using-RNN
- # Poet Generator using RNN
+
 
 ## Overview
 This project is a text generation tool that creates poetic text using a Recurrent Neural Network (RNN) implemented with TensorFlow and Keras. The model is trained on a subset of Shakespeare's works and generates text based on a seed sequence.
